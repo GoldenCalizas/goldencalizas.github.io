@@ -3659,12 +3659,12 @@
 			}
 
 			#main > .posts > * {
-				width: 50%;
+				width: 33%;
 			}
 
 			#main > .posts > * {
 				padding: 4rem;
-				width: 50%;
+				width: 33%;
 			}
 
 			#main > .posts > article {
@@ -3690,12 +3690,12 @@
 			@media screen and (max-width: 980px) {
 
 				#main > .posts > * {
-					width: 50%;
+					width: 33%;
 				}
 
 				#main > .posts > * {
 					padding: 2.5rem;
-					width: 50%;
+					width: 33%;
 				}
 
 			}
